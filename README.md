@@ -1,6 +1,8 @@
 # Memory
 
-This is an implementation of the card game [Memory](https://en.wikipedia.org/wiki/Concentration_(card_game)), built with TypeScript, React and Styled Components. 
+This is an implementation of the card game [Memory](https://en.wikipedia.org/wiki/Concentration_(card_game)), built with TypeScript, React and Styled Components.
+
+Hosted on AWS S3 and served by CloudFront at [https://d3v9e776h66eg7.cloudfront.net](https://d3v9e776h66eg7.cloudfront.net	)
 
 # Running locally
 
